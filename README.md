@@ -1,5 +1,10 @@
-### Hi there 👋
+![image](https://github.com/scalene-triangle/scalene-triangle/assets/55972476/013bfda0-a1d2-4ca7-900a-24614064f72e)
 
+### Weiss
+- Full Stack Software Developer ⭐⭐⭐ 
+- .Net Developer ⭐⭐⭐ 
+- Solutions Architect ⭐
+- Severe Fur Kids Lover ⭐⭐⭐⭐⭐ 
 <!--
 **scalene-triangle/scalene-triangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
