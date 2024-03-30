@@ -1,7 +1,8 @@
 ![image](https://github.com/scalene-triangle/scalene-triangle/assets/55972476/013bfda0-a1d2-4ca7-900a-24614064f72e)
 
 ### Weiss
-- Full Stack Software Developer ⭐⭐⭐ 
+- Full Stack Software Developer ![image](https://github.com/scalene-triangle/scalene-triangle/assets/55972476/c71cc000-f1a0-4781-8e3a-ff8e7655dbb0)
+
 - .Net Developer ⭐⭐⭐ 
 - Solutions Architect ⭐
 - Severe Fur Kids Lover ⭐⭐⭐⭐⭐ 
