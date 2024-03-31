@@ -1,1 +1,4 @@
-![profile-readme](images/styled-profile-readme.png)
+### Weiss
+- Full Stack Software Developer
+- .Net Developer
+- Solutions Architect
