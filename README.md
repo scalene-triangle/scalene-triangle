@@ -16,7 +16,7 @@ Frontend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|<
 
 Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; C#, .NET Core, .NET MVC, Entity Framework Core, Nodejs 
 
-DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; Git, Docker, AWS Services, Azure, Jira, Confluence, Bitbucket
+DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; Git, Docker, AWS Services, Azure, Jira, Confluence, Bitbucket, Terraform, Datadog
 
 Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; English, Mandarian Chinese
 <br><br><br>
