@@ -1,7 +1,7 @@
 ## Weiss <img src="images/bongo-cat-cat-meme.gif" style="width:40px;" />
 
 <!-- About Me -->
-### About Me
+## About Me
 - Full Stack Software Developer
 - .Net Developer
 - Umbraco Developer
