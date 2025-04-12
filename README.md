@@ -1,11 +1,11 @@
 ## Weiss <img src="src/img/bongo-cat-cat-meme.gif" style="width:40px;" />
-
+<!-- -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-![snake gif](https://weissjiang.github.io/src/svg/github-contribution-grid-snake.svg)
+![Snake animation](https://scalene-triangle.github.io/scalene-triangle/github-contribution-grid-snake.svg)
 
 <!-- About Me -->
 ## About Me
+<!-- -->
 - Full Stack Software Developer
 - .Net Developer
 - Umbraco Developer
@@ -14,6 +14,7 @@
 
 <!-- Skill Set -->
 ## Skills
+<!-- -->
 Database &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; MYSQL, MSSQL, MongoDB
 
 Frontend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; HTML, CSS, Javascript, Vue.js, React.js, Typescript
@@ -27,6 +28,7 @@ Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span>
 
 <!-- Working Experience -->
 ## Experience
+<!-- -->
 🚀 Jun 2021 - Sep 2021 in <a href="https://www.linkedin.com/company/increasing-returns/?feedView=all" target="_blank" style="text-decoration: underline; text-decoration-color: lightblue; color: inherit;">Increasing Returns Pty Ltd</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp;&nbsp; Wordpress Web Developer
 
 🚀 Oct 2021 - Dec 2023 in <a href="https://www.linkedin.com/company/cloudconptyltd/posts/?feedView=all" target="_blank" style="text-decoration: underline; text-decoration-color: lightblue; color: inherit;">Cloudcon Pty Ltd</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp;&nbsp; Associate Software Developer
@@ -36,6 +38,7 @@ Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span>
 
 <!-- Licenses & certifications -->
 ## Licenses & certifications
+<!-- -->
 🎫 AWS Certified Cloud Practitioner
 
 🎫 Microsoft Certified: Azure Fundamentals
