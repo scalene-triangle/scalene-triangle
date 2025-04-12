@@ -1,7 +1,8 @@
 ## Weiss <img src="src/img/bongo-cat-cat-meme.gif" style="width:40px;" />
 <!-- -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-![Snake animation](https://scalene-triangle.github.io/scalene-triangle/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://scalene-triangle.github.io/scalene-triangle/github-contribution-grid-snake.svg" /></div>
+<br>
 
 <!-- About Me -->
 ## About Me
@@ -24,7 +25,7 @@ Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue
 DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; Git, Docker, AWS Services, Azure, Jira, Confluence, Bitbucket, Terraform, Datadog
 
 Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; English, Mandarian Chinese
-<br><br><br>
+<br>
 
 <!-- Working Experience -->
 ## Experience
@@ -34,7 +35,7 @@ Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span>
 🚀 Oct 2021 - Dec 2023 in <a href="https://www.linkedin.com/company/cloudconptyltd/posts/?feedView=all" target="_blank" style="text-decoration: underline; text-decoration-color: lightblue; color: inherit;">Cloudcon Pty Ltd</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp;&nbsp; Associate Software Developer
 
 🚀 Apr 2024 - Present in <a href="https://www.linkedin.com/company/studiobravo/posts/?feedView=all" target="_blank" style="text-decoration: underline; text-decoration-color: lightblue; color: inherit;">Studio Bravo – Creative Digital Agency</a>  &nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp;&nbsp; .NET Developer
-<br><br><br>
+<br>
 
 <!-- Licenses & certifications -->
 ## Licenses & certifications
@@ -46,7 +47,7 @@ Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span>
 🎫 Microsoft Certified: Azure AI Fundamentals
 
 🎫 Microsoft Certified: Azure Developer Associate
-<br><br><br>
+<br>
 
 <!-- Social Channel -->
 <a href="https://www.linkedin.com/in/weiss-jiang/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
