@@ -2,6 +2,8 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+![snake gif](https://weissjiang.github.io/src/svg/github-contribution-grid-snake.svg)
+
 <!-- About Me -->
 ### About Me
 - Full Stack Software Developer
