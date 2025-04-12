@@ -1,4 +1,6 @@
-## Weiss <img src="images/bongo-cat-cat-meme.gif" style="width:40px;" />
+## Weiss <img src="src/img/bongo-cat-cat-meme.gif" style="width:40px;" />
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <!-- About Me -->
 ### About Me
