@@ -5,7 +5,7 @@
 ![snake gif](https://weissjiang.github.io/src/svg/github-contribution-grid-snake.svg)
 
 <!-- About Me -->
-### About Me
+## About Me
 - Full Stack Software Developer
 - .Net Developer
 - Umbraco Developer
@@ -13,20 +13,20 @@
 <br>
 
 <!-- Skill Set -->
-### Skills
-Database &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; MYSQL, MSSQL, MongoDB
+## Skills
+Database &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; MYSQL, MSSQL, MongoDB
 
 Frontend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; HTML, CSS, Javascript, Vue.js, React.js, Typescript
 
 Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; C#, .NET Core, .NET MVC, Entity Framework Core, Nodejs 
 
-DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; Git, Docker, AWS Services, Azure, Jira, Confluence, Bitbucket
+DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; Git, Docker, AWS Services, Azure, Jira, Confluence, Bitbucket, Terraform, Datadog
 
 Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp; English, Mandarian Chinese
 <br><br><br>
 
 <!-- Working Experience -->
-### Experience
+## Experience
 🚀 Jun 2021 - Sep 2021 in <a href="https://www.linkedin.com/company/increasing-returns/?feedView=all" target="_blank" style="text-decoration: underline; text-decoration-color: lightblue; color: inherit;">Increasing Returns Pty Ltd</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp;&nbsp; Wordpress Web Developer
 
 🚀 Oct 2021 - Dec 2023 in <a href="https://www.linkedin.com/company/cloudconptyltd/posts/?feedView=all" target="_blank" style="text-decoration: underline; text-decoration-color: lightblue; color: inherit;">Cloudcon Pty Ltd</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span> &nbsp;&nbsp; Associate Software Developer
@@ -35,7 +35,7 @@ Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span>
 <br><br><br>
 
 <!-- Licenses & certifications -->
-### Licenses & certifications
+## Licenses & certifications
 🎫 AWS Certified Cloud Practitioner
 
 🎫 Microsoft Certified: Azure Fundamentals
