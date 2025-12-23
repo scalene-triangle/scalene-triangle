@@ -47,9 +47,11 @@ Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span>
 
 🎫 Microsoft Certified: Azure Fundamentals
 
+🎫 Microsoft Certified: Azure Developer Associate
+
 🎫 Microsoft Certified: Azure AI Fundamentals
 
-🎫 Microsoft Certified: Azure Developer Associate
+🎫 Microsoft Certified: Azure AI Engineer Associate
 <br><br><br>
 
 <!-- Social Channel -->
