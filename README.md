@@ -52,6 +52,8 @@ Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span>
 🎫 Microsoft Certified: Azure AI Fundamentals
 
 🎫 Microsoft Certified: Azure AI Engineer Associate
+
+🎫 Simplilearn: Basics of Ethereum
 <br><br><br>
 
 <!-- Social Channel -->
