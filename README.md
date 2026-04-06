@@ -54,6 +54,8 @@ Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span>
 🎫 Microsoft Certified: Azure AI Engineer Associate
 
 🎫 Simplilearn: Basics of Ethereum
+
+🎫 Vanderbilt University: AI Agent Developer
 <br><br><br>
 
 <!-- Social Channel -->
