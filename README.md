@@ -56,6 +56,9 @@ Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span>
 🎫 Simplilearn: Basics of Ethereum
 
 🎫 Vanderbilt University: AI Agent Developer
+
+🎫 Microsoft: Microsoft Full-Stack Developer
+
 <br><br><br>
 
 <!-- Social Channel -->
