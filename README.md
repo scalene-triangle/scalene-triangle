@@ -53,11 +53,13 @@ Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: lightblue;">|</span>
 
 🎫 Microsoft Certified: Azure AI Engineer Associate
 
-🎫 Simplilearn: Basics of Ethereum
+🎫 Microsoft: Microsoft Full-Stack Developer
 
 🎫 Vanderbilt University: AI Agent Developer
 
-🎫 Microsoft: Microsoft Full-Stack Developer
+🎫 DeepLearning.AI: Retrieval Augmented Generation (RAG)
+
+🎫 Simplilearn: Basics of Ethereum
 
 <br><br><br>
 
